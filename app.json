@@ -1,0 +1,11 @@
+{
+  "name": "Coffee_Shop_App",
+  "displayName": "Coffee House",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "1a5519fb-81ac-4043-aba6-4442ced8c5ad"
+      }
+    }
+  }
+}
